@@ -4,8 +4,8 @@ Here are helper scripts to encode/decode numbers station messages. For more info
 
 ## Format
 
-Encoded message: only letters and spaces (27) are recognised. Each encoded character is seperated by a newline.
-One-time pad (OTP) and encrypted message: 5-digit numbers seperate by newlines
+* Encoded message: only letters and spaces (27) are recognised. Each encoded character is seperated by a newline.
+* One-time pad (OTP) and encrypted message: 5-digit numbers seperate by newlines
 
 ## Usage
 
